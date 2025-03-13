@@ -1,6 +1,7 @@
 # Ollama Chat Interface
 
-A modern web interface for interacting with Ollama language models, built with React and TypeScript.
+This project is simply a practice exercise. I want to try turning the local Ollama into a UI interface for easier personal use. 
+There are still many areas for improvement, such as a user account login system, multimodal LLM file uploading, and other features.
 
 ## Features
 
