@@ -1,5 +1,5 @@
 # Ollama Chat Interface
-
+![image](img/example.png)
 This project is simply a practice exercise. I want to try turning the local Ollama into a UI interface for easier personal use. 
 There are still many areas for improvement, such as a user account login system, multimodal LLM file uploading, and other features.
 
